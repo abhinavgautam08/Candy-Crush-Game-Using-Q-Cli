@@ -1,4 +1,4 @@
-# Candy Crush Style Game
+# Candy Crush Game
 
 A modern Candy Crush-style match-3 game built with Python and Pygame.
 
